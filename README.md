@@ -42,3 +42,19 @@ To run this project, you'll need a basic understanding of:
 1. Clone the repository:
    ```bash
    git clone https://github.com/MuhammadUmaair/Round-Shape-with-Icons-and-Progress-Bar
+2. Navigate into the project directory::
+   ```bash
+   cd circle-progress-bar
+3. Open the 'index.html' file in your browser to view the progress bar:
+   ```bash
+   open index.html
+4. Folder Structure
+   ```bash
+   circle-progress-bar/
+│
+├── index.html         # Main HTML file
+├── style.css          # Styles for layout, and animations
+├── script.js          # JavaScript for handling the progress bar movements
+└── README.md          # Project documentation
+
+   
