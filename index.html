@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Round Shape with Icons and Progress Bar</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="circle-container">
+    <div class="progress-bar" id="progress-bar"></div>
+    <div class="circle-content">
+      <h2>Heading</h2>
+      <p>Some text inside the circle content.</p>
+    </div>
+
+    <div class="icon top" onclick="moveBar('top')">
+      <img src="1.png" alt="Top Icon">
+    </div>
+    <div class="icon right" onclick="moveBar('right')">
+      <img src="2.png" alt="Right Icon">
+    </div>
+    <div class="icon bottom" onclick="moveBar('bottom')">
+      <img src="3.png" alt="Bottom Icon">
+    </div>
+    <div class="icon left" onclick="moveBar('left')">
+      <img src="4.png" alt="Left Icon">
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
