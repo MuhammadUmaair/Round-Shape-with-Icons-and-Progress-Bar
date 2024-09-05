@@ -56,5 +56,6 @@ To run this project, you'll need a basic understanding of:
 ├── style.css          # Styles for layout, and animations
 ├── script.js          # JavaScript for handling the progress bar movements
 └── README.md          # Project documentation
+```
 
    
