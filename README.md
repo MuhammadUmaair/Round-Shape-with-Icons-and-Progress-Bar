@@ -49,13 +49,13 @@ To run this project, you'll need a basic understanding of:
    ```bash
    open index.html
 4. Folder Structure
-   ```bash
+   ```
    circle-progress-bar/
-│
-├── index.html         # Main HTML file
-├── style.css          # Styles for layout, and animations
-├── script.js          # JavaScript for handling the progress bar movements
-└── README.md          # Project documentation
-```
+   │
+   ├── index.html         # Main HTML file
+   ├── style.css          # Styles for layout, and animations
+   ├── script.js          # JavaScript for handling the progress bar movements
+   └── README.md          # Project documentation
+   ```
 
    
